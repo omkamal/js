@@ -1,3 +1,6 @@
+training/package-lock.json
+training/node_modules/*
+
 # Compiled class file
 *.class
 
